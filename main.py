@@ -1,10 +1,4 @@
 
-#このスクリプトは同じメールを複数回送るために作成されたテスト用のものです。
-#悪意のある荒らしやメールボムなどに使用しないでください。
-#
-#作成元: Myamya-wiki
-#Twitter名: myamya_wiki
-#github: https://github.com/myamya-wiki
 import smtplib
 import dns.resolver
 from email.mime.text import MIMEText
